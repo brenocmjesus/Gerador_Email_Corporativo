@@ -1,0 +1,10 @@
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\bin\Debug\Gerador de Email Corporativo.exe.config
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\bin\Debug\Gerador de Email Corporativo.exe
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\bin\Debug\Gerador de Email Corporativo.pdb
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\obj\Debug\Gerador de Email Corporativo.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\obj\Debug\Gerador_de_Email_Corporativo.frmNomeEmail.resources
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\obj\Debug\Gerador_de_Email_Corporativo.Properties.Resources.resources
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\obj\Debug\Gerador de Email Corporativo.csproj.GenerateResource.cache
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\obj\Debug\Gerador de Email Corporativo.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\obj\Debug\Gerador de Email Corporativo.exe
+C:\Users\natal\source\repos\Gerador de Email Corporativo\Gerador de Email Corporativo\obj\Debug\Gerador de Email Corporativo.pdb
